@@ -339,6 +339,7 @@
 - [Jihoi Kang](https://github.com/jihoi-kang)
 - [Jessica Angel](https://github.com/jessica-angel7)
 - Jimmy Lee Jones
+- Jiasheng Yang(https://github.com/Jiasheng-Yang)
 - Matt Z
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Ishan Gupta](https://github.com/ishan-gupt)
